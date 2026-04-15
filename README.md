@@ -5,7 +5,7 @@ This repository contains our collaborative work for a university course project 
 
 ## Team Members
 This project was completed as a team effort by:
-- Seyyedalireza Khosh solat
+- Parham Khosh Solat
 - Shayan Ekramnia
 - Farshad Farahtaj
 - Sara Aboudarda
